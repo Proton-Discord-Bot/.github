@@ -3,9 +3,9 @@
 # Hmm?
 Something's wrong
 
-There's nothing to see here for you
+There's nothing for you to see here
 
-You can find the code you where searching for [here](https://github.com/Proton-Bot-Development/Proton)
+You can find the code you were looking for [here](https://github.com/Proton-Bot-Development/Proton)
 
 
 
